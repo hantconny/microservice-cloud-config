@@ -21,7 +21,7 @@ eureka:
     enable-self-preservation: false
 ---
 server:
-  port: 6011
+  port: 6001
 spring:
   profiles: prod
   application:

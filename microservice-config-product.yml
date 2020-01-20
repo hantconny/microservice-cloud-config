@@ -21,7 +21,7 @@ eureka:
     prefer-ip-address: true
 ---
 server:
-  port: 8001
+  port: 8011
 
 spring:
   profiles: prod

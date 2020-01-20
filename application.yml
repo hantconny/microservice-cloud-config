@@ -3,14 +3,14 @@ spring:
     active: dev
 ---
 server:
-  port: 4001
+  port: 4011
 spring:
   profiles: dev
   application:
     name: microservice-config-dev
 ---
 server:
-  port: 4002
+  port: 4012
 spring:
   profiles: prod
   application:

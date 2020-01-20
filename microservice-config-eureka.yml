@@ -7,7 +7,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microservice-config-eureka-dev
+    name: microservice-eureka-config-dev
     
 eureka:
   instance:
@@ -25,7 +25,7 @@ server:
 spring:
   profiles: prod
   application:
-    name: microservice-config-eureka-prod
+    name: microservice-eureka-config-prod
     
 eureka:
   instance:

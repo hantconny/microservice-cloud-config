@@ -1,3 +1,5 @@
+emp:
+  name: zhangsam
 spring:
   profiles:
     active: dev

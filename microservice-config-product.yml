@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microservice-product-config-dev
+    name: microservice-product-config-dev-bus
 
 eureka:
   client:

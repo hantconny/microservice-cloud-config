@@ -1,5 +1,5 @@
 emp:
-  name: lisi
+  name: zhangsan
 spring:
   profiles:
     active: dev

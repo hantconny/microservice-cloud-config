@@ -1,5 +1,6 @@
 emp:
   name: zhangsan
+
 spring:
   profiles:
     active: dev
@@ -23,7 +24,7 @@ eureka:
     prefer-ip-address: true
 ---
 server:
-  port: 8011
+  port: 8001
 
 spring:
   profiles: prod
